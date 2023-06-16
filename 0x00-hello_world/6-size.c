@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
-* main - print the size of all types
+* main -a program that print the size of various computer types
 *
 * description : counting size
 *
-* Return : Always 0 (Success)
+* Return  0 (Success)
 */
 int main(void)
 {
