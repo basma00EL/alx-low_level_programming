@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
 * print_line - draws straight line according to parameter
 * @n : number of lines to draw
